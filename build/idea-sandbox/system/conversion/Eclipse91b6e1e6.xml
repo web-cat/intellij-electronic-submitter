@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\.idea\workspace.xml" timestamp="1607021105310" />
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\.idea\modules.xml" timestamp="1606914110066" />
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\.idea\Eclipse.iml" timestamp="1606914110024" />
+  </project-files>
+</conversion>

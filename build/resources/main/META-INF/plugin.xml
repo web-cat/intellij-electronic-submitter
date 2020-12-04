@@ -1,0 +1,26 @@
+<idea-plugin>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="202.7319" until-build="202.*"/>
+  <id>org.webcat.IntellijPlugin</id>
+  <name>Web-CAT</name>
+  <version>1.0-SNAPSHOT</version>
+  <vendor email="mohammedv@vt.edu" url="www.webcat.org">Web-CAT</vendor>
+  <description>
+    This plugin is used to submit a project made by a student to Web-CAT.
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceImplementation="org.webcat.intellij.submitter.settings.AppSettingsState"/>
+  </extensions>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationConfigurable parentId="tools" instance="org.webcat.intellij.submitter.settings.AppSettingsConfigurable" id="org.intellij.sdk.settings.AppSettingsConfigurable" displayName="Web-CAT Submission Plugin"/>
+  </extensions>
+  <actions>
+    <group id="IntellijPlugin.submitterAction" text="Web-CAT" description="Main menu">
+      <add-to-group group-id="MainMenu" anchor="last"/>
+      <action class="org.webcat.intellij.submitter.actions.SubmitProjectAction" id="IntellijPlugin.submitterAction.submitter" text="Submit Assignment"/>
+    </group>
+  </actions>
+</idea-plugin>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="assignment" path="ActionManager" hit="Submit Assignment" />
+    <option name="submit" path="ActionManager" hit="Submit Assignment" />
+  </configurable>
+  <configurable id="org.intellij.sdk.settings.AppSettingsConfigurable" configurable_name="Web-CAT Submission Plugin">
+    <option name="address" hit="E-mail address: " />
+    <option name="e-mail" hit="E-mail address: " />
+    <option name="server" hit="SMTP server: " />
+    <option name="smtp" hit="SMTP server: " />
+    <option name="submission" hit="Submission URL: " />
+    <option name="url" hit="Submission URL: " />
+    <option name="are" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="assignment" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="be" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="filled" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="if" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="must" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="not" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="submitting" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="these" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="using" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="web-cat" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="you" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="your" hit="These must be filled if you are not submitting your assignment using Web-CAT" />
+    <option name="are" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="assignment" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="be" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="filled" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="if" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="must" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="submitting" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="these" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="using" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="web-cat" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="you" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="your" hit="These must be filled if you are submitting your assignment using Web-CAT" />
+    <option name="username" hit="Username: " />
+    <option name="plugin" hit="Web-CAT Submission Plugin" />
+    <option name="submission" hit="Web-CAT Submission Plugin" />
+    <option name="web-cat" hit="Web-CAT Submission Plugin" />
+  </configurable>
+</options>
+

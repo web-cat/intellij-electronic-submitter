@@ -1,0 +1,30 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="308" last="1606912777479" />
+      </entry>
+      <entry key="EditorPaste">
+        <ActionSummary times="1" last="1606833783112" />
+      </entry>
+      <entry key="OpenFile">
+        <ActionSummary times="5" last="1607021094472" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="28" last="1607020316303" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1605500050462" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.DynamicPluginVfsListener$prepareChange$2$afterVfsChange$1$1">
+        <ActionSummary times="1" last="1606208754316" />
+      </entry>
+      <entry key="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+        <ActionSummary times="3" last="1607021091231" />
+      </entry>
+      <entry key="com.intellij.openapi.project.DumbServiceImpl$2">
+        <ActionSummary times="2" last="1606208747829" />
+      </entry>
+    </data>
+  </component>
+</application>

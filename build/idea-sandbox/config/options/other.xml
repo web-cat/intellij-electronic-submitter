@@ -1,0 +1,22 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/OneDrive/Desktop/Past stuff (From August 2019)/Spring 2020/CS2114/Eclipse/Lab14BST&#10;C:/Users/madni/OneDrive/Desktop/Past stuff (From August 2019)/Spring 2020/CS2114/Eclipse&#10;C:/Users/madni/OneDrive/Desktop/IntelliJ&#10;C:/Users/madni/OneDrive/Desktop/Self_intellij" />
+    <property name="file.gist.reindex.count" value="72" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-6" />
+    <property name="kotlin-gradle-user-dirs" value="C:\Users\madni\.gradle" />
+    <property name="lastExpandedTreePathsPreference" value="&amp;name=CS 1&amp;name=Lab 00: Hello World" />
+    <property name="lastProjectSubmitSelectPreference" value="Lab14BST" />
+    <property name="lastSeenTip" value="neue-DeleteLine.html" />
+    <property name="lastTimeTipsWereShown" value="1607018737106" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/IntelliJ" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1606771140720" />
+    <property name="seenTips" value="neue-SelectIn.html,neue-DotEtcInLookups.html,neue-SmartTypeCasting.html,Kotlin_mix.html,neue-PostfixCompletion.html,neue-SecondSmartCompletionArrayMember.html,neue-DeleteLine.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\Lab14BST\Lab14BST.iml" timestamp="1607021123886" />
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\Lab14BST\.idea\workspace.xml" timestamp="1607021197317" />
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\Lab14BST\.idea\misc.xml" timestamp="1607021123905" />
+    <file path="C:\Users\madni\OneDrive\Desktop\Past stuff (From August 2019)\Spring 2020\CS2114\Eclipse\Lab14BST\.idea\modules.xml" timestamp="1607021123914" />
+  </project-files>
+</conversion>

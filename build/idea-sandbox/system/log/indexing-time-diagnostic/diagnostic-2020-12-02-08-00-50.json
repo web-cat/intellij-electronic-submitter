@@ -1,0 +1,290 @@
+{
+  "appInfo" : {
+    "build" : "202.7319.50",
+    "buildDate" : "Mon, 14 Sep 2020 18:21:45 -0400",
+    "productCode" : "IC",
+    "generated" : "Wed, 2 Dec 2020 08:00:50 -0500",
+    "os" : "Windows 10 10.0",
+    "runtime" : "JetBrains s.r.o. 11.0.8 11.0.8+10-b944.31"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "Eclipse",
+    "numberOfFileProviders" : 1,
+    "totalNumberOfFiles" : 863,
+    "times" : {
+      "indexingTime" : "12 s 764 ms",
+      "scanFilesTime" : "114 ms",
+      "pushPropertiesTime" : "9 s 268 ms",
+      "indexExtensionsTime" : "< 1 ms",
+      "pushPropertiesStart" : "Wed, 2 Dec 2020 08:00:37 -0500",
+      "pushPropertiesEnd" : "Wed, 2 Dec 2020 08:00:46 -0500",
+      "scanFilesStart" : "Wed, 2 Dec 2020 08:00:46 -0500",
+      "scanFilesEnd" : "Wed, 2 Dec 2020 08:00:47 -0500",
+      "indexExtensionsStart" : "Wed, 2 Dec 2020 08:00:46 -0500",
+      "indexExtensionsEnd" : "Wed, 2 Dec 2020 08:00:46 -0500",
+      "indexingStart" : "Wed, 2 Dec 2020 08:00:37 -0500",
+      "indexingEnd" : "Wed, 2 Dec 2020 08:00:50 -0500"
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "PLAIN_TEXT",
+      "partOfTotalIndexingTime" : "49.3%",
+      "partOfTotalContentLoadingTime" : "7.9%",
+      "totalNumberOfFiles" : 382,
+      "totalFilesSize" : "2.11 MB",
+      "indexingSpeed" : "2.79 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 382,
+        "totalFilesSize" : "2.11 MB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "20.8%",
+      "partOfTotalContentLoadingTime" : "40.6%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "588.36 kB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 170,
+        "totalFilesSize" : "187.21 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "CLASS",
+      "partOfTotalIndexingTime" : "12.6%",
+      "partOfTotalContentLoadingTime" : "21.7%",
+      "totalNumberOfFiles" : 111,
+      "totalFilesSize" : "217.11 kB",
+      "indexingSpeed" : "1.13 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 111,
+        "totalFilesSize" : "217.11 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalIndexingTime" : "11.2%",
+      "partOfTotalContentLoadingTime" : "22.7%",
+      "totalNumberOfFiles" : 102,
+      "totalFilesSize" : "329.44 kB",
+      "indexingSpeed" : "1.92 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 102,
+        "totalFilesSize" : "329.44 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalIndexingTime" : "5.7%",
+      "partOfTotalContentLoadingTime" : "< 1%",
+      "totalNumberOfFiles" : 50,
+      "totalFilesSize" : "295.56 kB",
+      "indexingSpeed" : "3.4 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 50,
+        "totalFilesSize" : "295.56 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    }, {
+      "fileType" : "Eclipse",
+      "partOfTotalIndexingTime" : "< 1%",
+      "partOfTotalContentLoadingTime" : "7.0%",
+      "totalNumberOfFiles" : 48,
+      "totalFilesSize" : "21.28 kB",
+      "indexingSpeed" : "2.61 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Eclipse'",
+        "numberOfFiles" : 48,
+        "totalFilesSize" : "21.28 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "TodoIndex",
+      "partOfTotalIndexingTime" : "35.6%",
+      "totalNumberOfFiles" : 704,
+      "totalFilesSize" : "2.92 MB",
+      "indexingSpeed" : "5.35 MB/s"
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : "21.3%",
+      "totalNumberOfFiles" : 752,
+      "totalFilesSize" : "2.94 MB",
+      "indexingSpeed" : "8.98 MB/s"
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : "19.2%",
+      "totalNumberOfFiles" : 704,
+      "totalFilesSize" : "2.92 MB",
+      "indexingSpeed" : "9.91 MB/s"
+    }, {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : "13.3%",
+      "totalNumberOfFiles" : 281,
+      "totalFilesSize" : "404.32 kB",
+      "indexingSpeed" : "1.98 MB/s"
+    }, {
+      "indexId" : "fileIncludes",
+      "partOfTotalIndexingTime" : "3.5%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "3.48 MB/s"
+    }, {
+      "indexId" : "bytecodeAnalysis",
+      "partOfTotalIndexingTime" : "2.7%",
+      "totalNumberOfFiles" : 111,
+      "totalFilesSize" : "217.11 kB",
+      "indexingSpeed" : "5.26 MB/s"
+    }, {
+      "indexId" : "DomFileIndex",
+      "partOfTotalIndexingTime" : "1.9%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "6.41 MB/s"
+    }, {
+      "indexId" : "ant-imports",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "12.73 MB/s"
+    }, {
+      "indexId" : "RelaxSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "38.03 MB/s"
+    }, {
+      "indexId" : "FrameworkDetectionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "44.85 MB/s"
+    }, {
+      "indexId" : "XsltSymbolIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "53.05 MB/s"
+    }, {
+      "indexId" : "xmlProperties",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "53.24 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 111,
+      "totalFilesSize" : "217.11 kB",
+      "indexingSpeed" : "93.06 MB/s"
+    }, {
+      "indexId" : "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 111,
+      "totalFilesSize" : "217.11 kB",
+      "indexingSpeed" : "126.86 MB/s"
+    }, {
+      "indexId" : "IdeaPluginRegistrationIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "126.92 MB/s"
+    }, {
+      "indexId" : "PluginIdModuleIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "454.28 MB/s"
+    }, {
+      "indexId" : "PluginIdDependenciesIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "556.67 MB/s"
+    }, {
+      "indexId" : "devkit.ExtensionPointIndex",
+      "partOfTotalIndexingTime" : "< 1%",
+      "totalNumberOfFiles" : 170,
+      "totalFilesSize" : "187.21 kB",
+      "indexingSpeed" : "560 MB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Eclipse'",
+      "totalNumberOfFiles" : 863,
+      "totalIndexingTime" : "3 s 379 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "PLAIN_TEXT",
+        "numberOfFiles" : 382,
+        "totalFilesSize" : "2.11 MB",
+        "partOfTotalIndexingTime" : "49.3%",
+        "partOfTotalContentLoadingTime" : "7.9%"
+      }, {
+        "fileType" : "XML",
+        "numberOfFiles" : 170,
+        "totalFilesSize" : "187.21 kB",
+        "partOfTotalIndexingTime" : "20.8%",
+        "partOfTotalContentLoadingTime" : "40.6%"
+      }, {
+        "fileType" : "CLASS",
+        "numberOfFiles" : 111,
+        "totalFilesSize" : "217.11 kB",
+        "partOfTotalIndexingTime" : "12.6%",
+        "partOfTotalContentLoadingTime" : "21.7%"
+      }, {
+        "fileType" : "JAVA",
+        "numberOfFiles" : 102,
+        "totalFilesSize" : "329.44 kB",
+        "partOfTotalIndexingTime" : "11.2%",
+        "partOfTotalContentLoadingTime" : "22.7%"
+      }, {
+        "fileType" : "textmate",
+        "numberOfFiles" : 50,
+        "totalFilesSize" : "295.56 kB",
+        "partOfTotalIndexingTime" : "5.7%",
+        "partOfTotalContentLoadingTime" : "< 1%"
+      }, {
+        "fileType" : "Eclipse",
+        "numberOfFiles" : 48,
+        "totalFilesSize" : "21.28 kB",
+        "partOfTotalIndexingTime" : "< 1%",
+        "partOfTotalContentLoadingTime" : "7.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "TodoIndex",
+        "partOfTotalIndexingTime" : "35.6%"
+      }, {
+        "indexId" : "Trigram.Index",
+        "partOfTotalIndexingTime" : "21.3%"
+      }, {
+        "indexId" : "IdIndex",
+        "partOfTotalIndexingTime" : "19.2%"
+      }, {
+        "indexId" : "Stubs",
+        "partOfTotalIndexingTime" : "13.3%"
+      }, {
+        "indexId" : "fileIncludes",
+        "partOfTotalIndexingTime" : "3.5%"
+      }, {
+        "indexId" : "bytecodeAnalysis",
+        "partOfTotalIndexingTime" : "2.7%"
+      }, {
+        "indexId" : "DomFileIndex",
+        "partOfTotalIndexingTime" : "1.9%"
+      } ],
+      "fastIndexers" : [ "FrameworkDetectionIndex", "IdeaPluginRegistrationIndex", "PluginIdDependenciesIndex", "PluginIdModuleIndex", "RelaxSymbolIndex", "XsltSymbolIndex", "ant-imports", "devkit.ExtensionPointIndex", "org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex", "org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex", "xmlProperties" ]
+    } ]
+  }
+}

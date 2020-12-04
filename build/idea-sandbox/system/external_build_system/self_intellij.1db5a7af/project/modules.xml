@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Self_intellij.iml" filepath="$PROJECT_DIR$/.idea/Self_intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Self_intellij.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Self_intellij.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Self_intellij.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Self_intellij.test.iml" />
+    </modules>
+  </component>
+</project>
